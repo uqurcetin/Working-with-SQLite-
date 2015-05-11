@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">sqlite sample</string>
+    <string name="action_settings">menu</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="email">Email</string>
+    <string name="add">Add</string>
+    <string name="address">Address</string>
+    <string name="phone_number">Phone number</string>
+    <string name="website">Website</string>
+    <string name="company_name">Company name</string>
+    <string name="add_new_company">Add New Company</string>
+    <string name="all_companies">All Companies</string>
+    <string name="no_company_in_the_database_create_new_one_by_clicking_the_add_button_at_the_top_right">No company in the database. create new one by clicking the add button at the top right</string>
+	<string name="empty_fields_message">One or more fields are empty</string>
+	<string name="salary">Salary</string>
+	<string name="all_employees">All Employees</string>
+	<string name="no_employee_working_for_this_company_add_a_new_one_by_clicking_the_add_button_on_the_top_right">No employee working for this company. Add a new one by clicking the add button on the top right</string>
+	<string name="add_new_employee">Add New Employee</string>
+	<string name="select_a_company">Select a company</string>
+	<string name="delete">Delete</string>
+	<string name="company_deleted_successfully">Company deleted successfully</string>
+	<string name="employee_deleted_successfully">Employee deleted successfully</string>
+	<string name="company_created_successfully">Company added successfully</string>
+	<string name="employee_created_successfully">Employee added successfully</string>
+</resources>
